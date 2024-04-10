@@ -1,12 +1,9 @@
 ### Hi there 👋
 # Milad Niazi-Razavi
-Experienced computer engineer and multilingual software developer who love to be **THE REAL ENGINEER**   
-You ask what is **THE REAL ENGINEER**? Good question   
-The one that think first, do next!   
-The one that can think in any role if needed, not limitted to a field.   
+Experienced computer engineer and multilingual software developer
 
 ## Skills
-- Languages: JavaScript, Python, C/C++, C#
+- Languages: Java, C#, JavaScript, Python, C/C++, bash
 - Backend: TypeScript (a bit), ASP.Net (a bit), CGI, Node.js, Nest.js (a bit), Postgresql, MongoDB, Prisma, GraphQL, Redis, Redwood.js, MEAN.js
 - Windows app: Winform, DevExpress, eyeShot
 - Machine learning: Caffe, Tensorflow, CNN, Image processing, Object Detection, Object Tracking
