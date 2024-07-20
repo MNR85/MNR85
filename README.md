@@ -1,6 +1,8 @@
 ### Hi there 👋
 # Milad Niazi-Razavi
-Experienced computer engineer and multilingual software developer
+Computer engineer and multilingual software developer
+
+I enjoy to solve problems and learn new things.
 
 ## Skills
 - Languages: Java, C#, JavaScript, Python, C/C++, bash
